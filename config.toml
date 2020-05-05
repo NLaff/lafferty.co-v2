@@ -27,12 +27,8 @@ pygmentsUseClasses = true
 		url = "/blog/"
 
     [[menu.main]]
-		name = "Projects"
-		url = "/projects"
-        
-    [[menu.main]]
-        name = "Tags"
-        url = "/tags"
+		name = "Consulting"
+		url = "/consulting"
 
 
 [taxonomies]
