@@ -6,6 +6,8 @@ tags = ["mailgun"]
 
 +++
 
+{{< note text="Mailgun has changed their pricing plans as of March 2020. As a result their routes feature is now gated behind a plan that cost $35/month. I'll update this if their pricing changes again to allow the use of routes for free." >}}
+
 **Disclosure**: I currently work for [Mailgun](https://mailgun.com). I used their product for years before I started working here.
 
 I've had a personal website for a long time. It's gone through lots of iterations as I've transitioned from student life to working full time. As a marketer applying for jobs in 2013 I think having a website made me stand out from other applicants. It also helped that I had this kind of ridiculous headshot of me in a suit sitting in the middle of the woods. In reality that was my parent's backyard, but either way it made me a memorable candidate.
