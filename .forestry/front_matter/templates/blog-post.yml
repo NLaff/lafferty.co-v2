@@ -23,3 +23,12 @@ fields:
     required: false
   label: canonicalURL
   description: did this article appear somewhere else? link here
+- name: lastmod
+  type: datetime
+  label: Last Modified
+  description: The last date this content was modified
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
