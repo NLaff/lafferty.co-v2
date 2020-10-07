@@ -4,6 +4,7 @@ description = "Quitting video games was the best decision of my life, but only b
 tags = ["games"]
 title = "Why I Quit Video Games and How You Can Too"
 lastmod = 2020-10-03
+featured = true
 
 +++
 Quitting video games was one of the best decisions I've made. I wasn't having fun and wanted to spend my time in more productive ways by creating content for this blog.
@@ -30,7 +31,7 @@ Answer these questions:
 * Do you get angry at yourself, the game or others?
 * What would you do instead if you quit for an entire year?
 
-I wrote a longer post about why I [quit playing video games](https://nicklafferty.com/blog/why-im-quitting-video-games-for-an-entire-year/), but here’s the gist: **It stopped being fun.**
+Here's why I quit: **It stopped being fun.**
 
 I played because I always had. I didn’t get any joy out of it anymore.
 

@@ -1,6 +1,6 @@
 <li>
     {{ $dateformat := .Site.Params.DateFmt | default "Jan 02, 2006" }}
-    <span><time datetime="{{.Date}}">{{ .Date.Format $dateformat }} {{ .Params.tags }}</time></span>
+    <span><time datetime="{{.Date}}">{{ .Date.Format $dateformat }}</time></span>
     <span><br></span>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
 </li>

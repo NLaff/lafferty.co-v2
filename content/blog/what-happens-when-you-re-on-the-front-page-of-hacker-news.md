@@ -4,6 +4,7 @@ date = 2020-04-28T05:00:00Z
 description = "One of my posts made it to the front page of Hacker News yesterday and my website traffic, and inbox, exploded."
 tags = ["marketing"]
 title = "What Happens When You're On The Front Page of Hacker News"
+featured = true
 
 +++
 I had almost 18,000 visitors to my website yesterday. Maybe you were one of them. If so, welcome!

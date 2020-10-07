@@ -13,25 +13,21 @@
     </section>
     
     
-    <section>
+    <!--<section>
 		<h4>{{ T "latestPost" }}</h4>
 		<ul class="no-bullet">
         {{ range (first 5 (where site.RegularPages "Section" "blog")) }}
         {{ partial "li" . }}
         {{ end }}
 		</ul>
-	</section>
-
-	{{ $worksection := .Site.Params.WorkSection | default "work" }}
-	{{ with .Site.GetPage "section" $worksection }}
+	</section><-->
 	<section>
-		<h4>{{ T "latestWork" }}</h4>
+		<h4>Featured Posts</h4>
 		<ul class="no-bullet">
-			{{- range (first $latestcount (where .Pages "Section" $worksection)) -}}
+			{{ range ( first 5 ( site.RegularPages.ByParam "featured")) }}
 			{{ partial "li" . }}
-			{{- end -}}
+			{{ end }}
 		</ul>
 	</section>
-	{{ end }}
 </article>
 {{ partial "footer" . }}

@@ -5,6 +5,7 @@ description = "Learn about the basics of growth marketing. Starting with custome
 tags = ["marketing"]
 title = "The Basics of Growth Marketing"
 canonicalURL = "https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/"
+featured = true
 
 +++
 This guide first appeared on Mailjet, the [email marketing service](https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/) for fast-moving teams. 
