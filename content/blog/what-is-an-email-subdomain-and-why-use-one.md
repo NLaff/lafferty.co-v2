@@ -5,7 +5,7 @@ date = 2020-12-21T06:00:00Z
 description = "Everything you wanted to know about email subdomains but were afraid to ask. "
 lastmod = ""
 tags = ["marketing"]
-title = "What is an email subdomain and why use one?"
+title = "What Is An Email Subdomain and Why Use One?"
 
 +++
 When it comes to email sending, sometimes you need more than the press of a button to get your message across. You may have heard of email subdomains, but you may be wondering - how do you use them? And, wait a minute, what exactly _are_ they?  
