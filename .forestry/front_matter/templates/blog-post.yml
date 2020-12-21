@@ -32,3 +32,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+pages:
+- content/blog/what-is-an-email-subdomain-and-why-use-one.md
