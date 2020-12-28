@@ -100,6 +100,10 @@ home = [ "HTML", "RSS", "JSON" ]
   name = "email"
   url = "mailto:nick@lafferty.co"
 
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://www.twitter.com/LaffertyN"
+
 [taxonomies]
 	tag = "tags"
 
