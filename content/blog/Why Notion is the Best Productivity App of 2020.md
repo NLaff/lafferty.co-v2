@@ -11,6 +11,8 @@ lastmod = 12-28-2020
 
 +++
 
+This Notion guide was first written in 2020. It's been updated for 2021 to reflect feature and pricing changes. 
+
 There are a lot of productivity apps on the market. [Notion](http://notion.so) is the best one of them all. It's an all-in-one productivity solution, according to their website, and it's simply one of the best tools I've ever used. 
 
 Notion is incredibly flexible. It can be a writing repository, task management software, a workout calendar, a database, and so much more. Better yet, you can connect your data in each of those projects to each other, so your workout calendar can reference your journal entries.
@@ -164,7 +166,7 @@ Notion's Current Pricing, Updated 2021. Price is billed annually.
 
 ![Notion Pricing 2021](https://i.postimg.cc/YCNjnmjG/Screen-Shot-2020-12-28-at-11-01-19-AM.png)
 
-Airtable's Current Pricing, March 2020, billed annually. 
+Airtable's Current Pricing, Updated 2021, billed annually. 
 
 ![Airtable's Pricing 2021](https://i.postimg.cc/KvSM0bQW/Screen-Shot-2020-12-28-at-11-03-03-AM.png)
 
@@ -176,7 +178,7 @@ I've personally found Notion's in-app onboarding experience to be cleaner, more 
 
 I prefer the left-hand navigation in Notion to the tab-based navigation in Airtable. It's a simple difference but I find Notion's more natural. 
 
-## The Best Productivity App of 2020
+## The Best Productivity App of 2021
 
 Notion beats Evernote, Trello, and Airtable across the board. Evernote and Trello are very limited apps, good at one specific purpose and terrible at everything else. Airtable is Notion's closest competitor in the scope of this article, but it still falls short. On pricing alone Notion is half the cost of Airtable, before you factor in all free credit Notion gives you for completing certain tasks. 
 
