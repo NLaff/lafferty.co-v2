@@ -90,7 +90,7 @@ home = [ "HTML", "RSS", "JSON" ]
 
   [params.homeInfoParams]
   Title = "👋 Hi, I'm Nick Lafferty."
-  Content = "This is a blog about digital marketing and how to hire really smart people to work for you."
+  Content = "I'll help take your digital marketing skills to the next level."
 
    [[params.socialIcons]]
   name = "linkedin"
