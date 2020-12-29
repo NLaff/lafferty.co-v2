@@ -5,13 +5,10 @@ description = "Learn about the basics of growth marketing. Starting with custome
 tags = ["marketing"]
 title = "The Basics of Growth Marketing"
 canonicalURL = "https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/"
-featured = true
 showtoc = true
 tocopen = true
 
 +++
-This guide first appeared on Mailjet, the [email marketing service](https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/) for fast-moving teams. 
-
 ## What is growth marketing?
   
 Growth marketing, also known as growth hacking, has been on the rise since 2010, coinciding with the growth of tech start-ups after 2008’s global recession. You can see this fast rise in recognition in the graph below, and the term’s speed into the mainstream fits its definition. **Growth marketing is all about rapid and iterative experimentation with the ultimate goal of growing sales, revenue, and profit for a business**. It moves beyond the top of funnel metrics like awareness, website visits, and brand sentiment—the main focus areas of traditional marketing—and instead **seeks to understand the data behind what drives the bottom line of the business**.
