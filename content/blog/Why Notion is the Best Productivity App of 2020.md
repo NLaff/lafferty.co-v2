@@ -2,34 +2,32 @@
 
 title = "The Best Productivity Tools Reviewed [Updated 2021]"
 date = "2020-02-04"
-description = "I compare Notion to Monday.com, Evernote, Trello, and Airtable to see what the best productivity app is."
+description = "Compare Notion to Monday.com, Evernote, Trello, and Airtable to see what is the best productivity tool."
 draft = false
 tags = ["notion"]
 showToc = true
 TocOpen = true
 lastmod = 2020-12-28
-affiliate = false
+affiliate = true
 featured = true
 weight = 20
 
 +++
 
-This post on the best productivity tools was first written in 2020. It's been updated for 2021 to reflect feature and pricing changes and the addition of Monday. 
+This post on the best productivity tools was first written in 2020. It's been updated for 2021 to reflect feature and pricing changes and the addition of [Monday](https://mondaycom.grsm.io/nicklafferty2215).
 
-There are a lot of productivity apps on the market. [Notion](http://notion.so) is the best one of them all. It's an all-in-one productivity solution, according to their website, and it's simply one of the best tools I've ever used. 
+There are a lot of productivity apps on the market. [Notion](http://notion.so) is one of the most popular and flexible tools. It's an all-in-one productivity solution and it's simply one of the best tools I've ever used. 
 
 Notion is incredibly flexible. It can be a writing repository, task management software, a workout calendar, a database, and so much more. Better yet, you can connect your data in each of those projects to each other, so your workout calendar can reference your journal entries.
 
 In 2020 Notion updated their free tier to have unlimited blocks, previously you were limited to 1,000. Now you can use as many as you like. 
 
-Notion is great, but it faces some stiff competition. Here's a shortlist of some of the best productivity apps, updated for 2021. Click to jump to that section:
+Here's a shortlist of some of the best productivity apps, updated for 2021. Click to jump to that section:
 
 - [Monday](#notion-vs-monday)
 - [Evernote](#notion-vs-evernote)
 - [Trello](#notion-vs-trello)
 - [Airtable](#notion-vs-airtable)
-
-I'll compare Notion to Evernote, Airtable, and Trello and provide some of my thoughts. Let's go!
 
 ## Monthly Pricing Comparison
 
@@ -41,9 +39,17 @@ I'll compare Notion to Evernote, Airtable, and Trello and provide some of my tho
 *^billed annually*
 
 ## Notion vs Monday
-Notion is the best free alternative to Monday on the market today. Since Notion updated their free plan to include an unlimited number of blocks and pages, the choice is a no brainer. 
+Notion describes itself as the all-in-one workspace.
+
+[Monday](https://mondaycom.grsm.io/nicklafferty2215) is workplace management tool designed. 
+
+Both can do similar things, but the main difference starts with what part of your life the tools are designed to help with. Notion is flexible and can be used to create anything. Monday is only for work. 
+
+Read on to see the Pros and Cons of Monday, a price comparison, and learn why Notion is a great free alternative to Monday. 
 
 ### Pros and Cons
+
+![Monday Project Management](/uploads/monday-pm.png)
 
 **Pros**
 - Unlimited boards
@@ -53,13 +59,15 @@ Notion is the best free alternative to Monday on the market today. Since Notion 
 **Cons**
 - No unlimited free trial.
 - Expensive. The cheapest plan is $29/month.
-- Minimum 3 users/month which is frankly ridiculous. 
+- Minimum 3 users/month.
 
 ### Pricing Comparison
 
 ![Monday Prices 2021](https://i.postimg.cc/8cH3pDyp/Screen-Shot-2020-12-28-at-10-24-08-PM.png)
 
-Notion is much cheaper than Monday.com simply because their pricing begins with only one user. Monday charges you a minimum of three users. Monday's goal as a workplace-focused productivity app is to get you and your colleagues to start using it. The faster you invite your colleagues, the better the chances of your usage of the product sticks long term. 
+Notion is much cheaper than [Monday](https://mondaycom.grsm.io/nicklafferty2215) simply because their pricing begins with only one user. Monday charges you a minimum of three users. 
+
+Monday's goal as a workplace-focused productivity app is to get you and your colleagues to start using it. The faster you invite your colleagues, the better the chances of your usage of the product sticks long term. 
 
 While Notion's Personal plan starts at $5/month, you can easily get by with their Free tier for a long time.
 
@@ -67,19 +75,22 @@ Monday's personal plan starts at $29/month.
 
 ### Free Monday Alternative
 
-I'll say it again, **Notion is the best free alternative to Monday.com**. 
+**Notion is the best free alternative to [Monday.com](https://mondaycom.grsm.io/nicklafferty2215)**. 
 
 With Notion you can:
  - [start a daily journal](https://nicklafferty.com/blog/my-notion-journal-templates/)
  - [track your habits](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/)
  - [bullet journal](https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/)
- - and even create a [Kanban board](https://nicklafferty.com/blog/organize-your-writing-with-a-kanban-board/).
+ - [create a Kanban board](https://nicklafferty.com/blog/organize-your-writing-with-a-kanban-board/).
 
 Because Notion's free trial includes unlimited blocks and pages, you can create project overviews, timelines, kanban boards, and more. All for free.
 
 It also includes up to 5 total guest collaborators in your space. When you're ready to expand beyond that, it only costs $5/month.
 
-Compare that to Monday's monthly price of $29 and Notion is a bargain in comparison.
+Compare that to Monday's monthly price of $29 and Notion is a bargain.
+
+{{< button "https://mondaycom.grsm.io/nicklafferty2215" "Try Monday" >}}
+{{< button "https://Notion.so" "Try Notion" >}}
 
 ## Notion vs Evernote
 
