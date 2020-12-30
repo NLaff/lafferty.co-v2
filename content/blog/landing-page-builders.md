@@ -117,6 +117,27 @@ I'll cover Unbounce vs Instapage in a below section.
 - Real-time visual collaboration
 - AMP support
 
+#### Instapage Pricing
+![Instapage Pricing 2021](/uploads/Instapage_Pricing_2021.png)
+
+[Instapage](https://instapage.grsm.io/nicklafferty) is the most expensive landing page software I've seen. Starting at $199/month it is very expensive for most use cases. 
+
+That price only gets you 30,000 unique visitors/month. Any more and you'll need to talk to their Sales team, which means higher prices and a longterm contract. 
+
+#### Pros/Cons
+
+**Pros**
+- Feature rich. The cadillac of landing page tools. 
+- 100+ integrations
+- Real-time collaboration. Multiple users can edit the same landing page.
+- A highly-rated Wordpress plugin (4.5 stars).
+- Great reporting and analytics
+
+**Cons**
+- Expensive. 
+- Many companies are forced to talk to their Sales team for the Enterprise plan.
+- Self-service plan appears to just be part of an upsell to Enterprise
+
 ### Instapage vs Unbounce
 
 #### Features
@@ -179,27 +200,6 @@ I hate that Instapage forces most customers into an Enterprise plan which requir
 Instapage's UI is slightly better than Unbounce, and their reporting analytics is significantly better. But Instapage is also priced almost 2x more than Unbounce for a similar amount of unique visitors.
 
 **Winner**: [Unbounce](https://unbounce.grsm.io/nicklafferty)
-
-#### Instapage Pricing
-![Instapage Pricing 2021](/uploads/Instapage_Pricing_2021.png)
-
-[Instapage](https://instapage.grsm.io/nicklafferty) is the most expensive landing page software I've seen. Starting at $199/month it is very expensive for most use cases. 
-
-That price only gets you 30,000 unique visitors/month. Any more and you'll need to talk to their Sales team, which means higher prices and a longterm contract. 
-
-#### Pros/Cons
-
-**Pros**
-- Feature rich. The cadillac of landing page tools. 
-- 100+ integrations
-- Real-time collaboration. Multiple users can edit the same landing page.
-- A highly-rated Wordpress plugin (4.5 stars).
-- Great reporting and analytics
-
-**Cons**
-- Expensive. 
-- Many companies are forced to talk to their Sales team for the Enterprise plan.
-- Self-service plan appears to just be part of an upsell to Enterprise
 
 ### Leadpages
 Out of the three landing page tools listed here, Leadpages is the one I have not used personally. Much of my opinion's here will be based on what's available on their website, and my personal experience using Unbounce and Instapage for years. 
