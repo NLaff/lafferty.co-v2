@@ -19,31 +19,31 @@ I'm always interested in what happens when someone's blog post hits the front pa
 
 ## HackerNews Traffic From Google Analytics
 
-![Front page of hacker news traffic](/uploads/Screen%20Shot%202020-04-28%20at%208.01.26%20AM.png "Front page of hacker news traffic")
+![Front page of hacker news traffic](/uploads/ScreenShot2020-04-28at8.01.26AM.png "Front page of hacker news traffic")
 
 Overall I had almost 18,000 visitors to my website yesterday. Here's where they came from by channel.
 
-![Channel breakdown of traffic from Hacker News](/uploads/Screen%20Shot%202020-04-28%20at%208.45.06%20AM.png "Channel breakdown of traffic from Hacker News")
+![Channel breakdown of traffic from Hacker News](/uploads/ScreenShot2020-04-28at8.45.06AM.png "Channel breakdown of traffic from Hacker News")
 
 And here's the breakdown of just Social.
 
-![Social channel breakdown of hacker news traffic](/uploads/Screen%20Shot%202020-04-28%20at%208.45.14%20AM.png "Social channel breakdown of hacker news traffic")
+![Social channel breakdown of hacker news traffic](/uploads/ScreenShot2020-04-28at8.45.14AM.png "Social channel breakdown of hacker news traffic")
 
 So, almost all of the traffic was from HN, not surprising. Let's look at the device breakdown.
 
-![Traffic by device from hacker news](/uploads/Screen%20Shot%202020-04-28%20at%208.36.46%20AM.png "Traffic by device from hacker news")
+![Traffic by device from hacker news](/uploads/ScreenShot2020-04-28at8.36.46AM.png "Traffic by device from hacker news")
 
 About a 50/50 split between mobile and desktop. The amount of Mobile traffic is interesting to me because everyone should be at home right now. I'd chalk this up to people getting notifications and emails on their phones and just casually browsing the internet as a break from work. I did expect more Desktop traffic though.
 
 Here's the browser breakdown.
 
-![Traffic by browser from hacker news](/uploads/Screen%20Shot%202020-04-28%20at%208.37.01%20AM.png "Traffic by browser from hacker news")
+![Traffic by browser from hacker news](/uploads/ScreenShot2020-04-28at8.37.01AM.png "Traffic by browser from hacker news")
 
 50% of the traffic came from Chrome, not surprising as it's the most popular web browser out there. Safari as the next highest isn't surprising either considering the amount of mobile traffic, it makes sense that Safari makes up a high % of that traffic segment. Not pictured here, but 56% of mobile traffic yesterday came from iPhones.
 
 Next, locations!
 
-![Physical locations of where hacker news traffic came from yesterday](/uploads/Screen%20Shot%202020-04-28%20at%208.37.43%20AM.png "Physical locations of where hacker news traffic came from yesterday")
+![Physical locations of where hacker news traffic came from yesterday](/uploads/ScreenShot2020-04-28at8.37.43AM.png "Physical locations of where hacker news traffic came from yesterday")
 
 Shocking, lots of US traffic. But also a fair amount of UK, Canada, and other countries as well. The fact that the US only made up 50% was the most surprising thing to me, I expected that number to be higher.
 

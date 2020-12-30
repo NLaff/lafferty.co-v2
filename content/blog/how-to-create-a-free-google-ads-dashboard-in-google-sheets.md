@@ -95,7 +95,7 @@ Let's get started building that dashboard. Here are the charts I want to build, 
 * In your new sheet, click **Add-ons** → **Supermetrics** → **Launch Sidebar**
 * It'll look like this:
 
-  ![Supermetrics Addon for Google Sheets](/uploads/Screen Shot 2020-03-02 at 8.17.40 PM.png "Supermetrics Addon for Google Sheets")
+  ![Supermetrics Addon for Google Sheets](/uploads/ScreenShot2020-03-02at8.17.40PM.png "Supermetrics Addon for Google Sheets")
 * Click **Data source** → **Google Ads**
   * You'll be prompted to connect Supermetrics to your Ads account. This is necessary to pull data into your Google sheet.
 * Once you're connected, open S**elect Accounts** and pick the account you want. You can choose the MCC level account or specific ones if you want, depending on how you gave it access.
@@ -133,7 +133,7 @@ I have the action start processing a few hours before I'll ever need it, so here
 
 Make sure to click **Store Trigger** at the bottom right, otherwise, it won't be saved!
 
-![Supermetrics for Google Sheets Scheduled Refresh](/uploads/Screen%20Shot%202020-03-02%20at%208.30.54%20PM.png "Supermetrics for Google Sheets")
+![Supermetrics for Google Sheets Scheduled Refresh](/uploads/ScreenShot2020-03-02at8.30.54PM.png "Supermetrics for Google Sheets")
 
 ### 5. Build Your Charts
 
@@ -153,7 +153,7 @@ Highlight the full columns for:
 
 Once your columns are highlighted, click **Insert → Chart.** You'll get something that looks like this (I've fudged my numbers a bit for privacy).
 
-![Create Google Ads Dashboard](/uploads/Screen%20Shot%202020-03-02%20at%208.37.38%20PM.png "Create Google Ads Dashboard")
+![Create Google Ads Dashboard](/uploads/ScreenShot2020-03-02at8.37.38PM.png "Create Google Ads Dashboard")
 
 A decent start, but not readable. Double click your chart, then in the Chart Editor hit Setup → Chart type → Combo Chart (bar and line graph).
 
@@ -163,7 +163,7 @@ It may help to format the numbers in your data too, so you get nice percents.
 
 You should have something like this.
 
-![Google Sheets Dashboard Template](/uploads/Screen%20Shot%202020-03-02%20at%208.41.17%20PM.png "Google Sheets Dashboard Template")
+![Google Sheets Dashboard Template](/uploads/ScreenShot2020-03-02at8.41.17PM.png "Google Sheets Dashboard Template")
 
 Great! This helps me keep an eye on my brand campaigns to stay ahead of any competitors trying to bid on my brand. Usually, if I see my CPCs increase it means someone is conquesting my brand, and I need to look into raising my bids to out price them (they're likely paying 3-4x my CPCs) or file a trademark request if they're using my brand in their ads.
 
@@ -177,7 +177,7 @@ Highlight the below columns:
 
 Create a chart in the same way, and you'll get a familiar-looking result. Again, my numbers are fudged.
 
-![Supermetrics Google Sheets Chart](/uploads/Screen%20Shot%202020-03-02%20at%208.50.40%20PM.png "Supermetrics Google Sheets Chart")
+![Supermetrics Google Sheets Chart](/uploads/ScreenShot2020-03-02at8.50.40PM.png "Supermetrics Google Sheets Chart")
 
 I made the same changes as the last one:
 
@@ -185,7 +185,7 @@ I made the same changes as the last one:
 * Formatting the numbers and displaying data labels
 * Moving Cost per Conversion to the right axis, and a line graph
 
-  ![Supermetrics Google Sheets Chart](/uploads/Screen%20Shot%202020-03-02%20at%208.51.40%20PM.png "Supermetrics Google Sheets Chart")
+  ![Supermetrics Google Sheets Chart](/uploads/ScreenShot2020-03-02at8.51.40PM.png "Supermetrics Google Sheets Chart")
   
 My fake company is crushing it! More conversions at a lower CPA.
 

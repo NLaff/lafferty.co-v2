@@ -67,8 +67,6 @@ To see what keywords to optimize for, search LinkedIn for your job. See what pos
 
 LinkedIn will scan your profile and show you how you match against those jobs too.
 
-![](/uploads/Screen%20Shot%202020-02-29%20at%207.28.09%20PM.png)
-
 ## Life is what happens when you're making other plans
 
 That's a John Lennon quote, and it's one of my favorites. It's a reminder to not get wrapped up in planning out your entire life because you'll miss everything that makes life worth living in the first place.
