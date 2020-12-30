@@ -1,7 +1,7 @@
 +++
 affiliate = true
 date = 2020-12-30
-description = "Compare the top landing page builders to see who comes out on top. "
+description = "Compare Unbounce, Instapage, and Leadpages to see what the best, and cheapest, landing page builder is."
 tags = ["marketing"]
 title = "The Ultimate Guide To Landing Page Builders [2021 Reviews]"
 showtoc = true
@@ -117,9 +117,9 @@ I'll cover Unbounce vs Instapage in a below section.
 - Real-time visual collaboration
 - AMP support
 
-#### Instapage vs Unbounce
+### Instapage vs Unbounce
 
-##### Features
+#### Features
 
 Both Unbounce and [Instapage](https://instapage.grsm.io/nicklafferty) have very similar feature sets.
 
@@ -136,7 +136,7 @@ The two tools don't differentiate much on available feature sets to call a clear
 
 **Winner**: Tied
 
-##### Page Speed
+#### Page Speed
 I have accounts with both Instapage and Unbounce. Here are their page speed scores from Google's Page Speed Insights tools. For privacy I'm keeping the URLs hidden. 
 
 - Unbounce: 42 mobile / 99 desktop
@@ -151,14 +151,14 @@ Still, based on these scores the winner is obvious.
 
 **Winner**: [Instapage](https://instapage.grsm.io/nicklafferty)
 
-##### Pricing
+#### Pricing
 Unbounce starts at $80/month for 20,000 unique visitors and scales to $300/month for 50,000 unique visitors.
 
 Instapage starts at $199/month for 30,000 unique visitors. Any more and you need to talk to sales for an Enterprise plan.
 
 **Winner**: [Unbounce](https://unbounce.grsm.io/nicklafferty)
 
-##### Analytics Reporting
+#### Analytics Reporting
 Compared to Unbounce, Instapage also has much better reporting and analytics. Here's a screenshot from my Instapage account.
 
 ![Instapage Analytics Screenshot](/uploads/Instapage_Analytics_Screenshot.png)
@@ -171,7 +171,7 @@ From personal experience, Unbounce's analytics reporting is horrible. There's no
 
 **Winner**: [Instapage](https://instapage.grsm.io/nicklafferty)
 
-##### Conclusion
+#### Conclusion
 I have used both Instapage and Unbounce extensively in my day job. For a price to value ratio, Unbounce is the better landing page builder for small businesses, freelancers, and affiliate marketers.
 
 I hate that Instapage forces most customers into an Enterprise plan which requires a sales contract. It's clear they're serving a certain segment of the market and onyl use their self-service plans to support their Enterprise sales motion. 
