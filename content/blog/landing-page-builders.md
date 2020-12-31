@@ -11,7 +11,7 @@ weight = 100
 draft = false
 
 +++
-## What is a Landing page?
+## What is a Landing Page?
 A landing page is designed to convert an anonymous visitor into a customer or lead. Landing pages typically have a single goal and they remove any links or escape points that could entice a visitor to leave the page. 
 
 In Google Analytics, a landing page is the first page that a visitor enters your website from. It's the opposite of an exit page, which is the last page a visitor looks at before leaving. 
