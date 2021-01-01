@@ -26,11 +26,13 @@ pygmentsUseClasses = true
 		name = "blog"
 		url = "/blog/"
 		weight = 1
+		identifier = "blog"
 
     [[menu.main]]
 		name = "consulting"
 		url = "/consulting/"
 		weight = 2
+		identifier = "consulting"
 
 #	[[menu.main]]
 #		identifier = "interviews"
@@ -107,26 +109,6 @@ home = [ "HTML", "RSS", "JSON" ]
 [taxonomies]
 	tag = "tags"
 
-[markup]
-	defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xhtml = false
-
 #[params] #manis theme
 	## If false, use minified CSS (ui.min.css)
 	#debugCSS = false
@@ -176,11 +158,6 @@ home = [ "HTML", "RSS", "JSON" ]
 #
 	#enableRobotsTXT = true
 	#canonifyURLS = true
-#[markup]
-  #[markup.tableOfContents]
-    #endLevel = 3
-    #ordered = false
-    #startLevel = 3
 
 
 # Language Configuration
