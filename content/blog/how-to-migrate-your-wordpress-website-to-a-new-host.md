@@ -12,8 +12,8 @@ title = "How to Migrate Your Wordpress Website To A New Host"
 
 A step-by-step walkthrough of how to migrate your Wordpress website from the Free plan to a new hosting provider.
 
-I'll be using [Bluehost](https://www.bluehost.com/track/nicklafferty). 
+I'll be using [Bluehost](https://www.bluehost.com/track/nicklafferty).
 
 ## Choose A New Host
 
-I'm choosing Bluehost because of cost and they seem highly recommended. 
+I'm choosing Bluehost because of cost(plans start at $2.95/month) and they seem highly recommended.
