@@ -7,7 +7,6 @@ title = "The Ultimate Guide To Landing Page Builders in 2021"
 showtoc = true
 tocopen = true
 featured = true
-weight = 100
 draft = false
 
 +++

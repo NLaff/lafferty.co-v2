@@ -10,7 +10,6 @@ TocOpen = true
 lastmod = 2020-12-28
 affiliate = true
 featured = true
-weight = 20
 
 +++
 
