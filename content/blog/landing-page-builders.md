@@ -8,6 +8,9 @@ showtoc = true
 tocopen = true
 featured = true
 draft = false
+[cover]
+	image = "/uploads/landingpage.png"
+	alt = "Landing Page Builders"
 
 +++
 ## What is a Landing Page?

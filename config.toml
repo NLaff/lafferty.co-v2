@@ -62,7 +62,7 @@ home = [ "HTML", "RSS", "JSON" ]
 	ShowReadingTime = true
 	ShowShareButtons = false
 	comments = false
-	defaultTheme = "hugo-PaperMod"
+	defaultTheme = "dark"
 	disableThemeToggle = false
 	disableSpecial1stPost = false
 
