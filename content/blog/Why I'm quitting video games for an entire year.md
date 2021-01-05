@@ -7,6 +7,9 @@ lastmod = 2020-10-03
 featured = true
 showToc = true
 TocOpen = true
+[cover]
+image = "/uploads/quitvideogames.png"
+alt = "Quitting Video Games"
 
 +++
 Quitting video games was one of the best decisions I've made. I wasn't having fun and wanted to spend my time in more productive ways by creating content for this blog.

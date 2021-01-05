@@ -9,6 +9,9 @@ showtoc = true
 tocopen = true
 affiliate = true
 featured = true
+[cover]
+image = "/uploads/clickup_banner.png"
+alt = "ClickUp Review"
 
 +++
 ## What is ClickUp

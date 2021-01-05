@@ -7,6 +7,9 @@ title = "What Happens When You're On The Front Page of Hacker News"
 featured = true
 showToc = true
 TocOpen = true
+[cover]
+image = "/uploads/hackernews.png"
+alt = "Hacker News Front Page"
 
 +++
 I had almost 18,000 visitors to my website yesterday. Maybe you were one of them. If so, welcome!
