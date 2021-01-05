@@ -10,7 +10,7 @@ TocOpen = true
 [cover]
 image = "/uploads/google.jpg"
 alt = "Google Ads"
-caption = "Photo by Rajeshwar Bachu Unsplash"
+caption = "Photo by Rajeshwar Bachu on Unsplash"
 
 +++
 I had an unlimited budget. I could spend as much money as I wanted on whatever ads I wanted.
