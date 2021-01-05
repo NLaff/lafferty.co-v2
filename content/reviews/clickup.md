@@ -1,8 +1,8 @@
 +++
 
-title = "ClickUp Review | How Does It Compare?"
+title = "ClickUp Review | How Does It Compare to Monday?"
 date = "2021-01-03"
-description = "A productivity tool power user reviews ClickUp to see how it stacks up."
+description = "A productivity tool power user reviews ClickUp to see how it stacks up to Monday."
 draft = false
 tags = ["productivity"]
 showtoc = true
