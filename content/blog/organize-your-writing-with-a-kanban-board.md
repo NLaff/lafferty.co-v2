@@ -2,7 +2,8 @@
 date = 2020-02-16T06:00:00Z
 description = "Using a Kanban board enabled me to publish new content every day. Learn about Kanban and the exact steps on how to implement one in Notion"
 tags = ["notion"]
-title = "Organize Your Writing With a Kanban Board"
+title = "Organize Your Writing With a Notion Kanban Board"
+lastmod = 2021-01-09
 
 +++
 Building an organizational system for my writing enabled me to [publish new content every day this month](https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/) and helped build a huge backlog of ideas and drafts for future months.
@@ -41,7 +42,7 @@ I use a productivity tool called Notion to build my writing Kanban board. I like
 * I can add custom tags to my posts, which I use to note where I've been published
 * [It tracks my habits, workouts, and more.](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/)
 
-## Build a Writing Board with Notion
+## Build a Kanban Board with Notion
 
 Want to dive right in?
 

@@ -5,6 +5,7 @@ date = "2020-02-06"
 description = "Daily and weekly notion journal templates"
 draft = false
 tags = ["notion"]
+lastmod = "2021-01-09"
 
 +++
 
