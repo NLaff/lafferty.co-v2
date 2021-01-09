@@ -10,7 +10,7 @@ tags = ["notion"]
 
 I've journaled in Notion for a few months and I credit it for helping me build a daily journaling habit.
 
-My love for Notion is no secret, I've written before [how I use Notion to track my life](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/), and more recently why I think it's the [best productivity app of 2020](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/). 
+My love for Notion is no secret, I've written before [how I use Notion to track my life](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/), and more recently why I think it's the [best productivity app of 2021](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/). 
 
 Today I'm going to share my journaling templates in Notion, and also how I tag my journal entries to easily look them up later. 
 
