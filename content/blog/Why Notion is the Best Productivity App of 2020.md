@@ -1,6 +1,6 @@
 +++
 
-title = "The Best Productivity Tools Reviewed [Updated 2021]"
+title = "Why Notion Is The Best Productivity Tool [Updated 2021]"
 date = "2020-02-04"
 description = "Compare Notion to Monday.com, Evernote, Trello, and Airtable to see what is the best productivity tool."
 draft = false
