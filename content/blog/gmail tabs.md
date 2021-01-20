@@ -8,6 +8,8 @@ tags = ["work"]
 
 +++
 
+This article was written before I was [invited to Superhuman](/reviews/superhuman).
+
 If you’re like me and you work for a company that uses the G Apps Suite, then you probably have at least one Gmail tab open at all times. For me it became a comfort tab — always there, just waiting for me to click it to check my email 100 times a day.
 
 Actually, I found myself having 2 Gmail tabs open, and 1 Google Calendar tab, at all times. Work email, work calendar, personal email. Those were always the first 3 tabs open on my work computer.
