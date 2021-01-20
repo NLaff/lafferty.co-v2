@@ -27,7 +27,7 @@ No surprise then that Superhuman has Rapportive-like features inside it.
 
 ![Superhuman Social Data](/uploads/superhumansocial.png)
 
-Productivity software is exploding in Silicon Valley. Notion, an all-in-one workspace productivity tool, just raised $50 million at a $2 billion valuation. Superhuman is aimed at a similar group of users, working professionals looking to streamline their workflows to be more efficient at their jobs.
+[Productivity software](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/) is exploding in Silicon Valley. Notion, an all-in-one workspace productivity tool, just raised $50 million at a $2 billion valuation. Superhuman is aimed at a similar group of users, working professionals looking to streamline their workflows to be more efficient at their jobs.
 
 To date, Superhuman has raised $33 million in funding. Most start-ups raise funding based on the number of monthly active users, but Superhuman seems to be raising money off of its potential user-base instead. Superhuman uses its massive waitlist to prove there's demand in the market for it. 
 
