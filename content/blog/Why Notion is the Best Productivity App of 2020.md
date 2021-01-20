@@ -22,6 +22,8 @@ There are a lot of productivity apps on the market. [Notion](http://notion.so) i
 
 Notion is incredibly flexible. It can be a writing repository, task management software, a workout calendar, a database, and so much more. Better yet, you can connect your data in each of those projects to each other, so your workout calendar can reference your journal entries.
 
+{{< email >}}
+
 In 2020 Notion updated their free tier to have unlimited blocks, previously you were limited to 1,000. Now you can use as many as you like. 
 
 Here's a shortlist of some of the best productivity apps, updated for 2021. Click to jump to that section:
@@ -80,10 +82,10 @@ Monday's personal plan starts at $29/month.
 **Notion is the best free alternative to [Monday.com](https://click.nicklafferty.com/monday)**. 
 
 Here's some of the cool things you can do:
- - [start a daily journal with Notion](https://nicklafferty.com/blog/my-notion-journal-templates/)
- - [track your habits with Notion](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/)
+ - [Start a daily journal with Notion](https://nicklafferty.com/blog/my-notion-journal-templates/)
+ - [Track your habits with Notion](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/)
  - [Create a Notion bullet journal](https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/)
- - [create a Notion Kanban board](https://nicklafferty.com/blog/organize-your-writing-with-a-kanban-board/).
+ - [Create a Notion Kanban board](https://nicklafferty.com/blog/organize-your-writing-with-a-kanban-board/).
 
 Because Notion's free trial includes unlimited blocks and pages, you can create project overviews, timelines, kanban boards, and more. All for free.
 
@@ -94,7 +96,7 @@ It also includes up to 5 total guest collaborators in your space. When you're re
 Compare that to Monday's monthly price of $29 and Notion is a bargain.
 
 {{< button "https://click.nicklafferty.com/monday" "Try Monday" >}}
-{{< button "https://www.notion.so" "Try Notion" >}}
+{{< buttonblue "https://www.notion.so" "Try Notion" >}}
 
 ## Notion vs Evernote
 
@@ -140,12 +142,14 @@ On the other hand, Notion gives you access to all it's core features, including 
 
 Notion is so much more than a note-taking app. You can build an all-encompassing productivity solution for your life within it. I've written before about [how I use Notion to track my life](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/), and I still use it to track my workouts, catalog my journal, and aggregate my writing. I'm writing this blog post in Notion right now. 
 
+{{< email >}}
+
 I've used Evernote in the past and found it cumbersome. Evernote also limits your monthly uploads to 60mb, and your notes have a maximum size of 25mb. You can only sync 2 devices to one account, any more and you have to pay.
 
 Notion lets you add and sync as many devices as you want. They even incentivize you to try their other apps, giving you free credit by downloading a mobile app and sharing content from within the app. 
 
 {{< button "https://click.nicklafferty.com/evernote" "Try Evernote" >}}
-{{< button "https://www.notion.so" "Try Notion" >}}
+{{< buttonblue "https://www.notion.so" "Try Notion" >}}
 
 ## Notion vs Trello
 
@@ -190,12 +194,14 @@ Can Trello track your workouts in a calendar? Yes.
 
 Can you reference those daily workouts on other boards? No. 
 
+{{< email >}}
+
 Can you write your next novel in Trello? No. Not that I would recommend writing an entirely novel in Notion, but you could. More power to you. 
 
 Trello's features are mostly available within Notion at this point.
 
 {{< button "https://www.trello.com" "Try Trello" >}}
-{{< button "https://www.notion.so" "Try Notion" >}}
+{{< buttonblue "https://www.notion.so" "Try Notion" >}}
 
 ## Notion vs Airtable
 
@@ -245,7 +251,7 @@ I've personally found Notion's in-app onboarding experience to be cleaner, more 
 I prefer the left-hand navigation in Notion to the tab-based navigation in Airtable. It's a simple difference but I find Notion's more natural. 
 
 {{< button "https://www.airtable.com" "Try Airtable" >}}
-{{< button "https://www.notion.so" "Try Notion" >}}
+{{< buttonblue "https://www.notion.so" "Try Notion" >}}
 
 ## Notion vs ClickUp
 
@@ -299,3 +305,5 @@ Notion beats Monday, Evernote, Trello, ClickUp, and Airtable across the board. E
 Give Notion a shot today. The built-in templates are great, and there are tons of other articles on how to setup Notion just the way you want it. 
 
 Best of all, Notion doesn't have an affiliate program. I'm not getting paid to promote Notion. I'm just a guy writing a blog post in a hotel room about his favorite productivity app.
+
+{{< email >}}
