@@ -140,7 +140,7 @@ Scheduled follow-ups help me keep my inbox tidy, aka inbox zero. If I'm not read
 
 It's as simple as hitting the shortcut, typing monday 8am, and hitting enter. Superhuman does the rest. 
 
-## So, Is Superhuman It Worth It?
+## So, Is Superhuman Worth It?
 
 Short answer: Yes, but with an asterisk.
 
