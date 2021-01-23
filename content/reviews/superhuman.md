@@ -146,7 +146,7 @@ Short answer: Yes, but with an asterisk.
 
 Long answer: If your current email workflow is a nightmare and you need someone to set you straight, Superhuman is absolutely worth the cost of admission. You're essentially paying someone to teach you how to use hotkeys to manage your inbox with a really well-made tool.
 
-But is it worth paying for overtime? I'm not so sure. 
+But is it worth paying for over time? I'm not so sure. 
 
 Many of the shortcuts can be ported over to Gmail or another email client. None of the features seem proprietary to Superhuman and most can be replicated in another email client.
 
