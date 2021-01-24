@@ -135,6 +135,8 @@ But, that's not all Notion can do. The app also serves as a full team management
 
 Notion offers unlimited notes, documents, and projects for free! If you collaborate with more than five different people or need extra storage space, upgrades start at just $4 per month.
 
+There are [tons of free notion templates](https://nicklafferty.com/blog/free-notion-templates/) available as well. 
+
 Notion is arguably the best Evernote alternative on the market, and [our favorite productivity tool](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/) overall.
 
 {{< button "https://www.notion.so/product" "Try Notion For Free" >}}
