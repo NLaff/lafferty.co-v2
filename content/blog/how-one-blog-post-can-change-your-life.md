@@ -6,9 +6,10 @@ tags = ["writing"]
 title = "How One Blog Post Can Change Your Life"
 showToc = true
 TocOpen = true
+lastmod = "2021-01-24"
 
 +++
-I wrote about [What I learned After Spending $6 Million on Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/)[ ](https://www.notion.so/What-I-learned-After-Spending-6-Million-on-Google-Ads-7eef3f3a08304259b6954ee59cd195f7)It's done almost 10,000 views on Medium since then. A few days later I wrote about the initial viral experience[: The anatomy of a 5,000 view post. ](https://nicklafferty.com/blog/the-anatomy-of-a-5-000-view-post/)You can see it's been viewed even more since I wrote that.
+I wrote about [Spending $6 Million on Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/)It's done almost 10,000 views on Medium since then. A few days later I wrote about the initial viral experience[: The anatomy of a 5,000 view post. ](https://nicklafferty.com/blog/the-anatomy-of-a-5-000-view-post/)You can see it's been viewed even more since I wrote that.
 
 I knew that the post was good. The headline was strong and I picked a good image that was colorful.
 
@@ -67,6 +68,8 @@ If you don't make writing, or whatever else your passion is, the highest priorit
 Try taking on an insane challenge, like publishing every day for a month. In the end you'll be amazed at how far you came.
 
 Trust me, I know from experience.
+
+Or, invest in [hiring a freelance writer](/blog/hire-freelance-writer/) to write for you. This is obviously the more expensive option, but hiring a freelancer can provide a good source of motivation too. Nothing motivates me more than spending money on something -- it makes me care a lot more.
 
 ## Final Thoughts
 

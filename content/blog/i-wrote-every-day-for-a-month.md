@@ -6,6 +6,7 @@ tags = ["writing"]
 title = "I Wrote Every Day For A Month"
 showToc = true
 TocOpen = true
+lastmod = 2021-01-24
 
 +++
 This is it. The last day of my 29-day writing challenge to [publish new content every day this month](https://www.bounteous.com/files/uploads/Regular-Expressions-Google-Analytics_2019.pdf). I almost can't believe it's over.
@@ -66,3 +67,5 @@ I like writing about software and marketing. Sometimes those intersected. But mo
 ## That's it
 
 Seriously, what a fun journey. Never in a million years could I imagine how this month progressed. There's no replacement for hard work, and I was rewarded for that this month.
+
+**Update January 2021**: I have now [hired a freelance writer](/blog/hire-freelance-writer/) to help write for my blog.
