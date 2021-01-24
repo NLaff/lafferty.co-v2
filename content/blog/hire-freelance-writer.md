@@ -7,7 +7,6 @@ draft = false
 tags = ["writing"]
 showtoc = true
 tocopen = true
-featured = true
 [cover]
 image = ""
 alt = ""
@@ -92,7 +91,7 @@ This is the most important part. Sit down and write out exactly what you want th
 
 That seems like a lot, and it is. You need to fully understand all of that before posting on a job board.
 
-To answer those questions I created a "How to Write for NickLafferty.com" guide.
+To answer those questions I created a "How to Write for NickLafferty.com" guide. It's written in Notion. Checkout the [other Notion templates](https://nicklafferty.com/blog/free-notion-templates/) I've collected.
 
 It covers everything from who I am, what I expect, how I'll pay, and what my SEO requirements are.
 
