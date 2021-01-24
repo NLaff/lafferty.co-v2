@@ -1,7 +1,7 @@
 +++
 affiliate = true
 date = 2020-12-30
-lastmod = 2021-01-19
+lastmod = 2021-01-24
 description = "Compare Unbounce, Instapage, and Leadpages to see what the best, and cheapest, landing page builder is."
 tags = ["marketing"]
 title = "The Ultimate Guide To Landing Page Builders in 2021"
@@ -32,7 +32,7 @@ One of my freelance clients uses Instapage and did a head-to-head comparison wit
 
 I've created landing pages, setup conversion tracking, and ran a/b tests on both Unbounce and Instapage. 
 
-My background is in paid search marketing, where I've spent $6 Million on Google Ads in a single year. Throughout my career I've spent over $15 million on digital advertising. 
+My background is in paid search marketing, where [I've spent $6 Million on Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/) in a single year. Throughout my career I've spent over $15 million on digital advertising. 
 
 At those levels of spend you can't afford to have low-converting landing pages. 
 

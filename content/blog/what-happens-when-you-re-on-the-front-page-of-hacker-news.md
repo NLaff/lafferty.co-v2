@@ -1,6 +1,7 @@
 +++
 affiliate = ""
 date = 2020-04-28T05:00:00Z
+lastmod = 2021-01-24
 description = "One of my posts made it to the front page of Hacker News yesterday and my website traffic, and inbox, exploded."
 tags = ["marketing"]
 title = "What Happens When You're On The Front Page of Hacker News"
@@ -59,7 +60,7 @@ The little spike around March 3rd was when I posted my article the first time an
 
 This spike in profile views was way bigger. I imagine because this time the traffic went to my website, instead of Medium, and I have links to my LinkedIn, newsletter, and other projects easily accessible on my website.
 
-Medium is a great resource, but when a post goes viral you really want that traffic hitting your owned property instead of someone else's. The numbers speak for themselves!
+Medium is a great resource, but when a post goes viral you really want that traffic hitting your own [landing page](/blog/landing-page-builders/) instead of someone else's. The numbers speak for themselves!
 
 Despite having 400 profile views, I've only had about 15 connection requests on LinkedIn. I'm always happy to make new connections, and I get that some people just want to look me up to see my work history, but feel free to drop me a connection request too. You never know what opportunities we could have to work together, now or in the future!
 
