@@ -23,6 +23,8 @@ In this Evernote review, we'll go over the application's primary features, pros,
 
 So what are you waiting for? Open up the app, and start taking notes. It's time to get started.
 
+{{< youtube HWJPVxfp7sU >}}
+
 ## What is Evernote?
 
 ![Evernote Review](/uploads/Evernote.png)

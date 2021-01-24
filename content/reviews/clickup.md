@@ -15,18 +15,17 @@ image = "/uploads/clickup_banner.png"
 alt = "ClickUp Review"
 
 +++
-## What is ClickUp
+## What is ClickUp?
 
-![ClickUp Logo](/uploads/clickuplogo.png)
 [ClickUp](https://click.nicklafferty.com/clickup) is a productivity tool that aims to combine everything into one: tasks, docs, chat, goals, and more. 
 
 ClickUp has 100+ employees based out of San Diego, California. They raised $100M in a Series B funding round in December 2020. 
 
 Some of their well-known customers are Google, Airbnb, Nike, and Uber. 
 
-Their main competitors are Notion, Trello, Asana, and [Monday](https://click.nicklafferty.com/monday).
+Their main competitors are [Notion](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/), Trello, Asana, and [Monday](https://click.nicklafferty.com/monday).
 
-See my list of [the best productivity tools](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/) to see my favorite for 2021. 
+{{< youtube oECxYUrDX1Y >}}
 
 ## How To Use ClickUp
 ![Clickup Project Management](/uploads/clickup_pm.png)
