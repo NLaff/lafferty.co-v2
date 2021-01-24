@@ -8,8 +8,8 @@ tags = ["email", "reviews"]
 showtoc = true
 tocopen = true
 [cover]
-image = ""
-alt = ""
+image = "/uploads/bestemailclients.png"
+alt = "Best Email Clients"
 
 +++
 How many times did you check your email today? If you're like most Americans, you checked it on [average 15 times today](https://www.forbes.com/sites/annabelacton/2017/07/13/innovators-challenge-how-to-stop-wasting-time-on-emails/?sh=3a71c51a9788).

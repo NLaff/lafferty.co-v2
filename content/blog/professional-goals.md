@@ -8,6 +8,8 @@ tags = ["work"]
 showtoc = true
 tocopen = true
 [cover]
+image = "/uploads/professionalgoals.png"
+alt = "Professional Development Goals"
 
 +++
 

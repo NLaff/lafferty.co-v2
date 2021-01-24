@@ -8,8 +8,8 @@ tags = ["writing"]
 showtoc = true
 tocopen = true
 [cover]
-image = ""
-alt = ""
+image = "/uploads/hirewriter.png"
+alt = "How To Hire A Writer"
 
 +++
 ## How to Hire A Content Writer

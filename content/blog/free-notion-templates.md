@@ -3,10 +3,13 @@ date = "2021-01-09"
 description = "Free Notion templates for students, personal finance, work, productivity, and more"
 tags = ["notion"]
 title = "32 Beautiful & Free Notion Templates"
-lastmod = "2021-01-23"
+lastmod = "2021-01-24"
 showtoc = true
 tocopen = true
 draft = false
+[cover]
+image = "/uploads/freenotiontemplates.png"
+alt = "Free Notion Templates"
 
 +++
 The [Notion template gallery](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) is a great repository for pre-built, beautiful templates, but I wanted to curate a list of free Notion templates that inspire me.
