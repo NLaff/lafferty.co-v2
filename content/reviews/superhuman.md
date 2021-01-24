@@ -143,7 +143,7 @@ It's as simple as hitting the shortcut, typing monday 8am, and hitting enter. Su
 
 ## So, Is Superhuman Worth It?
 
-Short answer: Yes, but with an asterisk.
+Short answer: Yes. Superhuman is the [best email client](/reviews/best-email-client) I've ever used.
 
 Long answer: If your current email workflow is a nightmare and you need someone to set you straight, Superhuman is absolutely worth the cost of admission. You're essentially paying someone to teach you how to use hotkeys to manage your inbox with a really well-made tool.
 
