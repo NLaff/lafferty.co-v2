@@ -37,6 +37,8 @@ It's an ocean of sameness.
 
 Here's the good news. I'm going to show you what a rock solid cover letter is for 2021 and beyond.
 
+A good cover letter is just like [conversion copywriting](/blog/conversion-copywriting/), except the person you're trying to sell is your future employer. 
+
 We'll start at the beginning. 
 
 ## Do I Need A Cover Letter?
