@@ -1,7 +1,6 @@
 +++
-affiliate = ""
-date = 2020-03-17T05:00:00Z
-lasmod = 2021-01-30
+date = "2020-03-17"
+lastmod = "2021-01-30"
 description = "A great LinkedIn profile can literally make you more money. I haven't cold-applied for a job in years because I have recruiters reaching out to me non-stop."
 tags = ["work"]
 title = "How To SEO Optimize Your LinkedIn Profile"
