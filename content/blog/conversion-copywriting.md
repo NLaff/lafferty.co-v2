@@ -98,7 +98,7 @@ Specificity makes your claim believable because it's harder to call bullshit. If
 
 It's the difference between saying "We're the #1 Window Company in Austin" and "Voted #1 Window Company By The Austin Chronicle 10 Years In A Row".
 
-## Conversion Copywriting Course
+## The Best Conversion Copywriting Course
 This [copywriting class by CXL](https://cxl.com/institute/online-course/product-messaging/) is the single best class I've taken for my career.
 
 It took me from copywriting zero to hero in 6 hours. It provides clear structure, examples, and templates to teach you how to turn your website copy into powerful persuasive arguments. 
