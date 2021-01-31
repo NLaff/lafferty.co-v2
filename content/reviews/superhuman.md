@@ -25,19 +25,25 @@ Who would be crazy enough to pay $30/month for an email client?
 Why? Well, let's talk about it.
 
 ## Background
-Superhuman was founded by Rahul Vohra, who co-founded and sold Rapportive to LinkedIn for a reported $15 million in 2012. Rapportive was a Gmail extension that added relevant social media details on the person you were emailing, directly within your inbox.
+Superhuman was founded by Rahul Vohra, who co-founded and sold Rapportive to LinkedIn for a reported $15 million in 2012. 
+
+Rapportive was a Gmail extension that added relevant social media details on the person you were emailing, directly within your inbox.
 
 No surprise then that Superhuman has Rapportive-like features inside it.
 
 ![Superhuman Social Data](/uploads/superhumansocial.png)
 
-[Productivity software](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/) is exploding in Silicon Valley. Notion, an all-in-one workspace productivity tool, just raised $50 million at a $2 billion valuation. Superhuman is aimed at a similar group of users, working professionals looking to streamline their workflows to be more efficient at their jobs.
+[Productivity software](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/) is exploding in Silicon Valley. Notion, an all-in-one workspace productivity tool, just raised $50 million at a $2 billion valuation. 
 
-To date, Superhuman has raised $33 million in funding. Most start-ups raise funding based on the number of monthly active users, but Superhuman seems to be raising money off of its potential user-base instead. Superhuman uses its massive waitlist to prove there's demand in the market for it. 
+Superhuman is aimed at a similar group of users, working professionals looking to streamline their workflows to be more efficient at their jobs.
+
+To date, Superhuman has raised $33 million in funding. 
+
+Most start-ups raise funding based on the number of monthly active users, but Superhuman seems to be raising money off of its potential user-base instead. Superhuman uses its massive waitlist to prove there's demand in the market for it. 
 
 But all that demand isn't worth anything if the product is trash.
 
-And let me tell you. Superhuman is fantastic. It is the best email client I have ever used.
+And let me tell you, Superhuman is fantastic. It is the best email client I have ever used.
 
 But does that make it worth $30/month?
 

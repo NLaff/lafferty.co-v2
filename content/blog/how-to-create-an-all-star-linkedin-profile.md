@@ -1,9 +1,12 @@
 +++
 affiliate = ""
 date = 2020-03-17T05:00:00Z
+lasmod = 2021-01-30
 description = "A great LinkedIn profile can literally make you more money. I haven't cold-applied for a job in years because I have recruiters reaching out to me non-stop."
 tags = ["work"]
-title = "How To Create An All-Star LinkedIn Profile"
+title = "How To SEO Optimize Your LinkedIn Profile"
+showtoc = true
+tocopen = true
 
 +++
 A great LinkedIn profile can literally make you more money.
@@ -26,11 +29,11 @@ You want motivation? Spend some time scrolling through LinkedIn.
 
 There are a few things on LinkedIn that when done right will accelerate your career and maximize your earnings potential.
 
-## 1. Keep your profile updated
+## 1. Keep Your LinkedIn Profile Updated
 
 This sounds easy, but doing it well takes work. Not only should you always add your latest jobs, but you should be writing about the specific duties for that job.
 
-There's a secret to a well-written profile, and it's all about doing your research.
+There's a secret to a well-written profile, and it's all about doing keyword research.
 
 Here's what you should do.
 
@@ -46,6 +49,8 @@ Now, take that list of keywords you made and do two things with it.
 
 1. Update your profile with keywords you currently do or skills you have. **Do not lie.**
 2. For the skills you don't have, make a plan that gets you there.
+
+This takes common SEO optimization techniques and applies them to your LinkedIn profile. 
 
 Filling the gaps in your skillset is not easy. How do you get leadership experience without being promoted to a manager? Some of that you'll have to figure out on your own, but now that you're actively aware of what skills the next level requires, you can figure out how to increase your knowledge.
 
@@ -125,7 +130,7 @@ LinkedIn search also considers your posting activity, giving higher weight to ac
 
 I'll never cold-apply to a job again.
 
-## 3. Make New Connections
+## 3. Make New LinkedIn Connections
 
 You should always be expanding your professional network. Two reasons:
 
@@ -156,7 +161,7 @@ Tell them you're interested in the position and would like to set up a time to c
 
 Plus, you helped make their job easier. Who doesn't love that?
 
-## Creating an All-Star Profile Is Easy
+## SEO Optimizing Your LinkedIn Profile Is Easy
 
 It just takes work.
 
