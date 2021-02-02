@@ -178,3 +178,7 @@ Saying that does nothing to make you stand out.
 So the best way to end a cover letter is by saying nothing at all. Let your story speak for itself.
 
 And leave your phone number. They might just call you. 
+
+Want to learn how to write amazing cover letters? 
+
+{{< button "https://click.nicklafferty.com/cxl" "Take This Class From CXL" >}}

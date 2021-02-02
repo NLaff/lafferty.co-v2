@@ -77,6 +77,8 @@ Look, every company says they're great at what they do. What company wouldn't?
 
 Social proof adds credibility to that claim from external sources. 
 
+It also helps say what you can't. If your customer says you're the best company, then that must be true. 
+
 ## Credibility by Authority
 Who are you more likely to believe, an expert or a random person on the internet?
 
@@ -84,7 +86,7 @@ Experts are authoratative sources on a given subject because they've put in the 
 
 Experts are backed by years of experience. They're interviewed on TV, have written books, and have published papers in academic journals. 
 
-For conversion copywriting, authority is established by answering the question "why should I listen to you?".
+For conversion copywriting, authority is established by answering the question "why should I listen to you?". 
 
 ## Specific Claims Are Believable
 
@@ -105,7 +107,7 @@ It took me from copywriting zero to hero in 6 hours. It provides clear structure
 
 I'm not going to waste your time with other copywriting courses. CXL is the best.
 
-{{< button "https://cxl.com/institute/online-course/product-messaging/" "Supercharge Your Copywriting With CXL" >}}
+{{< button "https://click.nicklafferty.com/cxl" "Supercharge Your Copywriting With CXL" >}}
 
 ## Conversion Copywriting Examples
 Here are some of my favorite examples of conversion copywriting in the wild.
@@ -129,4 +131,4 @@ Good conversion copy smashes objections and provides all the reasons why they **
 
 Conversion copy can also help [improve your cover letters](/blog/cover-letters/) so you stand out from the crowd.
 
-{{< button "https://cxl.com/institute/online-course/product-messaging/" "Supercharge Your Copywriting With CXL" >}}
+{{< button "https://click.nicklafferty.com/cxl" "Supercharge Your Copywriting With CXL" >}}
