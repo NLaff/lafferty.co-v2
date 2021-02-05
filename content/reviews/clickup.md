@@ -73,7 +73,7 @@ They also have a business plan that adds even more features, and have Enterprise
 ## ClickUp vs Monday
 ![Clickup Board View](/uploads/clickup_board.png)
 
-ClickUp is an extremely attractive competitor to [Monday](https://click.nicklafferty.com/monday) based on Pricing and Features.
+ClickUp is an extremely attractive [Monday alternative](/reviews/monday/) based on Pricing and Features.
 
 ### Pricing
 
@@ -111,6 +111,8 @@ The list goes on, but in general ClickUp has more features available at a lower 
 **Winner**: [ClickUp](https://click.nicklafferty.com/clickup)
 
 ## ClickUp vs Wrike
+
+ClickUp is also a great [Wrike alternative](/reviews/wrike/) simply due to ClickUps superior free plan. Wrike, like Monday, forces more users on you than you may be ready for. Wrike includes 5 users on it's paid plan, and you pay for each of them, while ClickUp does not. 
 
 ### Pricing
 ![Wrike Pricing](/uploads/wrikepricing.png)
