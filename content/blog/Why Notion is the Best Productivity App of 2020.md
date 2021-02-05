@@ -44,6 +44,9 @@ Here's a shortlist of some of the best productivity apps, updated for 2021. Clic
 *^billed annually*
 
 ## Notion vs Monday
+
+Read my [comprehensive Monday review](/reviews/monday/).
+
 Notion describes itself as the all-in-one workspace.
 
 [Monday](https://click.nicklafferty.com/monday) is workplace management tool designed to use across multiple people. 
