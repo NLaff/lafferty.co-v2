@@ -15,7 +15,7 @@ alt = "Wrike Review 2021"
 
 Are you sick and tired of juggling a dozen different apps just to manage a single work task? Relying on a hodgepodge of software is more than just a nuisance — it's ineffective, a waste of time, and a security nightmare, especially given the number of data leaks nowadays. There has to be a more effective way to get things done... right?
 
-[Introducing Wrike](https://click.nicklafferty.com/wrike), one of the most popular all-in-one work management apps! Wrike combines and eliminates dozens of other workflow tools to help you perform better in a fraction of the time! No matter your industry, Wrike is here to help you **get things done** without all the hassle.
+[Introducing Wrike](https://click.nicklafferty.com/wrike), one of the most popular [free project management tools](/reviews/free-project-management-tools/)! Wrike combines and eliminates dozens of other workflow tools to help you perform better in a fraction of the time! No matter your industry, Wrike is here to help you **get things done** without all the hassle.
 
 This Wrike review takes you through the app's current set of features, as well as four free Wrike alternatives that you simply can't miss. Sound like a plan? Let's get right into it.
 
@@ -155,7 +155,7 @@ What does Wrike get right, and what does it get wrong? Let's take a peek:
 
 ## **Wrike Alternatives**
 
-Does Wrike sound right for your business? If you're unsure, it's definitely worth trying out. But if you're not feeling it, there are numerous [other productivity apps](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/) that may interest you.
+Does Wrike sound right for your business? If you're unsure, it's definitely worth trying out. But if you're not feeling it, there are numerous [other project management apps](/reviews/free-project-management-tools/) that may interest you.
 
 ### **Wrike vs. Monday**
 

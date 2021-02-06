@@ -15,7 +15,7 @@ alt = "Monday.com Review 2021"
 
 Teamwork is tricky, particularly in the business world. Keeping everyone on the same page and working smoothly across different departments takes a herculean effort. Factor in the rise of remote work, and it's harder than ever to effectively manage tasks and facilitate communication.
 
-In recent years, [workplace productivity tools](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/) have entered the marketplace, keen on solving this problem once and for all. But there's only *one* tool that prioritizes companywide collaboration above all else — Monday.com.
+In recent years, workplace [productivity tools](/reviews/free-project-management-tools/) have entered the marketplace, keen on solving this problem once and for all. But there's only *one* tool that prioritizes companywide collaboration above all else — Monday.com.
 
 Monday.com is a work management tool for teams small and large. Whether you manage three employees or 3,000, this cutting-edge app has a solution for you. Sound like it might be useful? In this Monday.com review, we'll go over the app's most popular features. We'll also look at a few of Monday's top competitors to see how they measure up.
 

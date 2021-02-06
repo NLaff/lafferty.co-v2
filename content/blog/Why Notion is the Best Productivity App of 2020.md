@@ -159,7 +159,7 @@ Notion lets you add and sync as many devices as you want. They even incentivize 
 
 ## Notion vs Trello
 
-Whereas Evernote is note-taking software, Trello is task management software. Trello is terrible for taking notes, but it's great for organizing your tasks and to-dos in one centralized place. However, Trello is strictly limited to tasks. It can contain a workout calendar, to-do list, and serve as project management software, but it can't contain your writing, journal, or a database with pictures and references to other objects. 
+Whereas Evernote is note-taking software, Trello is task management software. Trello is terrible for taking notes, but it's great for organizing your tasks and to-dos in one centralized place. However, Trello is strictly limited to tasks. It can contain a workout calendar, to-do list, and serve as [project management software](/reviews/free-project-management-tools/), but it can't contain your writing, journal, or a database with pictures and references to other objects. 
 
 I've used Trello at work as a Kanban board for me and my team. It's easy to create swim-lanes for To-Do, Doing, and Done. I can easily create new tasks for my team and setup automation rules to tag them in it. It helps me visualize what my team is working on, and I can reprioritize work as needed. 
 
