@@ -18,7 +18,7 @@ Have you seen those Youtube ads about how to make money online?
 
 I don't believe a word they say because I run Youtube and Google ads for a living.
 
-I've spent over [$6 million on Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/), and I've successfully grown Youtube campaigns from zero to 2,000 sales/month.
+I've spent over [$6 million on Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/) and I've successfully grown Youtube campaigns from zero to 2,000 sales/month.
 
 I also don't believe in paying for information from sketchy people claiming you can make six figures a month online with this one quick trick.
 
@@ -58,7 +58,7 @@ P.A.S stands for **Problem**, **Agitate**, **Solution**.
 
 * **Problem**: State the problem
 * **Agitate**: This is a problem because X, Y, Z
-* **Solution**: But thanks to <PRODUCT>, you can solve that problem
+* **Solution**: But thanks to this product you can solve that problem
 
 Let me give you a more specific example. 
 
@@ -67,7 +67,7 @@ One of my freelance clients sells video training for students in medical school.
 This is how I structured their first Youtube ad: 
 * **Problem**: Medical school is hard
 * **Agitate**: How do you keep up with all the lecture notes?
-* **Solution**: <COMPANY> makes learning medicine easy with snackable videos that breakdown complex topics. Try <COMPANY> today.
+* **Solution**: We makes learning medicine easy with snackable videos that breakdown complex topics. Try Us today.
 
 Their Youtube ad is 14 seconds in length, and only 20% of users presented with that ad watch it all the way through.
 
