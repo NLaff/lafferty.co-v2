@@ -177,7 +177,7 @@ I'd take phrases from the titles of each of these videos and add them to my keyw
 
 Rinse and repeat this for all your competitors. To start you can group all competitors in the same ad group, but over time I recommend breaking each competitor into a separate ad group.
 
-That will allow you to serve different ads for each competitor and send users to a unique landing page. But for now we're just getting started, so having them together in one ad group is perfectly fine. 
+That will allow you to serve different ads for each competitor and send users to a [unique landing page](/blog/landing-page-builders/). But for now we're just getting started, so having them together in one ad group is perfectly fine. 
 
 ### Custom Audiences
 This type of audience used to be called **custom intent**, but Google recently renamed it to just **custom audiences**.
