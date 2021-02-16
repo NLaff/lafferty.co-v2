@@ -11,7 +11,7 @@ TocOpen = true
 +++
 I've been doing some form of digital marketing for over 6 years. I've done everything from affiliate management, lifecycle email campaigns, to PPC ads in Google, Facebook, LinkedIn, and more.
 
-[I've spent over $6 million dollars on Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/) alone in a single year. And there's one tool I can't live without.
+I've spent [over $6 million dollars on Google Ads](/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/) alone in a single year. And there's one tool I can't live without.
 
 [Supermetrics](https://supermetrics.idevaffiliate.com/idevaffiliate.php?id=2679&tid1=marketing&tid2=ads-dashboard).
 

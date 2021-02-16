@@ -7,7 +7,7 @@ draft = false
 +++
 Here's a few things I can do to help grow your business. Feel free to [drop me an email](mailto:nick@lafferty.co) to discuss anything in more detail. 
 
-## Paid Search Account Audits
+## Google Ads Consulting
 I've spent [millions of dollars on Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned) managing B2C and B2B campaigns for Lead Gen, SaaS, Education, and a whole lot more industries. I'll take a look at your account and quickly tell you what I think is going well, what isn't, and provide a roadmap of actionable next-steps to take your advertising to the next level.
 
 ## Landing Page Optimization
