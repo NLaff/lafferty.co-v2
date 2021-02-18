@@ -9,7 +9,7 @@ showtoc = true
 tocopen = true
 affiliate = true
 [cover]
-image = ""
+image = "/uploads/Supermetrics.png"
 alt = "Supermetrics Review"
 
 +++
