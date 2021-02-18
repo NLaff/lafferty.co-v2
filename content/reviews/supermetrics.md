@@ -8,6 +8,7 @@ tags = ["marketing", "reviews"]
 showtoc = true
 tocopen = true
 affiliate = true
+featured = true
 [cover]
 image = "/uploads/Supermetrics.png"
 alt = "Supermetrics Review"

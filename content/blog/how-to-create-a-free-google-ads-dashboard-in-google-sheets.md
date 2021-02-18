@@ -37,7 +37,7 @@ They have a free plan that connects to just Google Analytics, but to harness the
 
 Ok, let's get started!
 
-## What Is Supermetrics?
+## Start With Supermetrics
 
 Supermetrics is a tool for the discerning, fast-moving digital marketer. It lets you pull data from a number of ad platforms or databases and dump it somewhere else.
 
@@ -54,7 +54,7 @@ The list of connections available through Supermetrics is staggering:
 
 It's essentially a SQL query for whatever data source you want.
 
-[Read my full Supermetrics review here](/reviews/supermetrics/)
+[Read my full Supermetrics review here](/reviews/supermetrics/).
 
 The specific tool I use is [Supermetrics for Google Sheets](https://affiliate.supermetrics.com/2679-3-3-5.html), which dumps the data you want into a Google sheet.
 

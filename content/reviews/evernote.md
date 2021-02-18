@@ -7,7 +7,6 @@ draft = false
 tags = ["productivity", "reviews"]
 showtoc = true
 tocopen = true
-featured = true
 affiliate = true
 [cover]
 image = "/uploads/evernotereview.png"
