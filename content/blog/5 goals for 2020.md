@@ -8,7 +8,7 @@ tags = ["life"]
 
 +++
 
-I wanted to write and publish a blog post on January 1st 2020 to set the tone for the year. This is me publicly committing to my goals on day 1 of the new decade. So here they are. 
+I wanted to write and publish a blog post on January 1st 2020 to set the tone for the year. This is me publicly committing to my [professional goals](/blog/professional-goals/) on day 1 of the new decade. So here they are. 
 
 ### 1) Keep working out consistently
 
