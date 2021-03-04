@@ -18,7 +18,7 @@ alt = "Superhuman Review"
 
 Superhuman is an email app that promises to be the fastest email experience ever made. But it comes at a steep cost: it'll set you back $30/month. And the company isn't letting everyone use it yet, the waitlist is over 275,000 people as of February 2020.
 
-Who would be crazy enough to pay $30/month for an email client?
+Who would be crazy enough to pay $30/month for an [email client](/reviews/best-email-client/)?
 
 👋 Hi. My name is Nick and I pay for Superhuman.
 
