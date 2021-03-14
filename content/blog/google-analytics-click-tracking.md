@@ -1,5 +1,6 @@
 +++
 date = 2020-12-31
+lastmod = 2021-03-14
 description = "See how easy it is to setup link click tracking in Google Analytics."
 tags = ["marketing"]
 title = "Setup Google Analytics Click Tracking in 5 Minutes"
@@ -11,9 +12,11 @@ draft = false
 ## Overview
 I want to track how many clicks I send to specific external website, then I want to compare total clicks to how many views that page gets to calculate a click-through-rate. 
 
-This isn't enabled by default in the old Google Analytics, but it is in Google Analyyics v4.
+This isn't enabled by default in the old Google Analytics, but it is in the new Google Analytics v4.
 
 Google Analytics is only as useful as the data you feed into it. Google Tag Manager(GTM) is a powerful and fast way to send data into Google Analytics. I recommend every digital marketer learn GTM. 
+
+Check out Plausible if you're looking for a [Google Analytics alternative](/reviews/plausible).
 
 ## Prerequisites
 * Publish access to Google Tag Manager

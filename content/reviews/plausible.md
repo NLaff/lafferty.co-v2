@@ -28,7 +28,7 @@ Plausible takes a progressive approach to web tracking:
 But how does Plausible stand up to Google Analytics?
 
 ## Why Should You Trust Me?
-I'm a professional digital marketer at [Mailgun](https://www.mailgun.com), an email api service for developers. I've spent millions of dollars on Google Ads and consulted for multi-million dollar SaaS companies.
+I'm a [professional digital marketer](/consulting/) at [Mailgun](https://www.mailgun.com), an email api service for developers. I've spent millions of dollars on Google Ads and consulted for multi-million dollar SaaS companies.
 
 My job requires me to live and breathe Google Analytics, often abbreviated as just **GA**. Google Analytics is used by [84% of websites](https://w3techs.com/technologies/details/ta-googleanalytics) known by W3Techs, and for two good reasons:
 * It's free
