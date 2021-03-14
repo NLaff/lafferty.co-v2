@@ -2,6 +2,7 @@
 
 title = "Plausible Review | A Google Analytics Alternative?"
 date = "2021-03-13"
+lastmod = "2021-03-14"
 description = "Plausible is a cookie-free website tracking solution, but can it replace Google Analytics?"
 draft = false
 tags = ["review", "analytics"]
@@ -91,7 +92,7 @@ The same can't be said about Google Analytics.
 #### Default GDPR Compliance
 I'm a firm believer in the power of default settings.
 
-It's the reason why [organ donation has a 90% registration rate](https://sparq.stanford.edu/solutions/opt-out-policies-increase-organ-donation) in countries with a default opt-in, compared to countries like the United States that use an opt-in method and have 15% of fewer registrations. 
+It's the reason why [organ donation has a 90% registration rate](https://sparq.stanford.edu/solutions/opt-out-policies-increase-organ-donation) in countries with a default opt-in, compared to countries like the United States that use a default opt-out method and have 15% or fewer registrations. 
 
 Default options have power, and the default for web analytics tools should be cookie-free and GDPR compliance.
 
