@@ -5,7 +5,7 @@ date = "2021-03-13"
 lastmod = "2021-03-14"
 description = "Plausible is a cookie-free website tracking solution, but can it replace Google Analytics?"
 draft = false
-tags = ["review", "analytics"]
+tags = ["analytics", "reviews"]
 showtoc = true
 tocopen = true
 [cover]
