@@ -131,7 +131,7 @@ The cost is small, starting at $6/month or $4/month paid annually.
 
 It's really a minimal cost and it supports the two developers. Because they're not backed by a mega corporation they need to charge, which is totally understandable. 
 
-Even if you have 2 million pages views a month, Plausible only costs $69/month.
+Even if you have 2 million page views a month, Plausible only costs $69/month.
 
 ![Plausible Price](/uploads/plausible_pricing.png)
 
