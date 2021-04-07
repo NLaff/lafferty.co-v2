@@ -19,10 +19,6 @@ The charity I chose is [Children With Hair Loss](https://www.childrenwithhairlos
 
 I started growing my hair out after I got my first full-time job. I work in technology so as long as I got my job done my bosses never cared what I looked like.
 
-Over time I learned how to take care of my long hair. My hair is curly so I tried all kinds of products to bring out the curls in my hair and prevent tangles.
-
-A coworker recommended I check out co-wash, also known as cleansing conditioner, which was a complete game changer for my hair. 
-
 But after 6 years it was time for a new look. I spent time researching how to donate my hair and I found some conflicting information.
 
 The process is really simple, so I wanted to write about it.
