@@ -1,7 +1,7 @@
 +++
 date = "2021-05-31"
 description = "A review of Optimizely after using it for a $100M/year enterprise business."
-tags = ["review", "ab testing"]
+tags = ["reviews", "ab testing"]
 title = "Optimizely Review | Comparing AB Testing Tools [2021 Review]"
 showtoc = true
 tocopen = true
