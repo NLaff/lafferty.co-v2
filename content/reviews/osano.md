@@ -2,7 +2,7 @@
 date = "2021-06-03"
 description = "Osano is the caddilac of cookie management providers. Read my experience after purchasing Osano."
 tags = ["reviews", "cookies"]
-title = "Osano Review | Comparing Consent Management Software [2021 Review]"
+title = "Osano Review | Consent Management Software [2021 Review]"
 showtoc = true
 tocopen = true
 draft = false
