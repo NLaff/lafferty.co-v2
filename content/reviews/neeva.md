@@ -8,7 +8,7 @@ tocopen = true
 draft = false
 affiliate = true
 [cover]
-image = ""
+image = "/uploads/neeva_banner.png"
 alt = "Neeva Review"
 
 +++
