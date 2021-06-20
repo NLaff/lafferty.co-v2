@@ -6,7 +6,6 @@ title = "Bonsai Review | Freelance Management Software [2021 Review]"
 showtoc = true
 tocopen = true
 draft = false
-affiliate = true
 [cover]
 image = "/uploads/bonsai_header.png"
 alt = "Bonsai Review"
