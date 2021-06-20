@@ -5,6 +5,7 @@ tags = ["reviews", "bonsai"]
 title = "Bonsai Review | Freelance Management Software [2021 Review]"
 showtoc = true
 tocopen = true
+affiliate = true
 draft = false
 [cover]
 image = "/uploads/bonsai_header.png"
@@ -25,9 +26,9 @@ I currently use [Bonsai](https://click.nicklafferty.com/bonsai) and it's complet
 Read on to see what Bonsai features I love the most and how I use it to manage my [freelance digital marketing](/consulting/) business. 
 
 ## Disclosure
-I am not being paid to write this review and there are no affiliate links in this post.
+This post contains affiliate links. I am an active user of Bonsai and truly like using their product so I wanted to disclose that upfront.
 
-If that changes I will update this disclosure. 
+If you sign up through Bonsai I will get a small commission.
 
 I only write reviews for software I have personally used.
 
