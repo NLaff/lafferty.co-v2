@@ -8,7 +8,7 @@ tocopen = true
 affiliate = false
 draft = false
 [cover]
-image = "/uploads/6sense_header.png"
+image = "/uploads/6sense_banner.png"
 alt = "6sense Review"
 
 +++
@@ -141,25 +141,64 @@ Here's a short list of what's available
 
 You can layer the predictive model scoring ontop of other filters. So not only can you target all accounts visiting your pricing page, you can filter it down to accounts in a buying stage that visited that page.
 
-The ability to use the predictive model like that truly is what sets 6sense apart from the competition, and why we decided to select them. 
+The ability to use the predictive model as a targeting layer is what sets 6sense apart from the competition, and why we decided to select them. 
 
 Here is a screenshot that shows the predictive model for a specific segment I created. Note that the total amount of accounts is significantly smaller than the similar screenshot I shared earlier.
 
 ![6sense Segment Predictive Account](/uploads/6sense_segment_details.png)
 
-### Campaigns
+You can also view the amount of website activities by day for any specific segment
 
+![6sense Segment Graph](/uploads/6sense_segment_accountgraph.png)
+
+Building segments is the first step to using 6sense. Once they're built you can target them with campaigns.
+
+### Campaigns
+![6sense Campaign Details](/uploads/6sense_campaign_details.png)
+There are also three types of Campaigns you can build:
+1. Display
+2. Retargeting
+3. External (Facebook & LinkedIn)
+
+Display campaigns use a DSP (Demand-side platform), which is a way to syndicate display ads across participating websites on the internet. It's like a fancier, beefed up version of Google Display Network. 
+
+Retargeting campaigns also use the DSP but only to serve ads to users that visited your website.
+
+External campaigns push your segment data into the LinkedIn and Facebook ad platforms, using a customer match audience. The thing to note about this is 6sense targets at the Account level, so your audiences in LinkedIn and Facebook will be huge. It'll target every user at those accounts, so you will need to layer on additional targeting to narrow it back down.
+
+The below screenshot shows the different types of campaigns that we've been spending on.
+
+![6sense Campaign Types](/uploads/6sense_campaign_types.png)
+
+Once a campaign has been live there are additional statistics you can view. Things like impressions and clicks, but also things like influenced form fills.
+
+![6sense Campaign Statistics](/uploads.6sense_campaign_stats.png)
+
+Scrolling down that page are even more stats. Impressions by day and by hour.
+
+![6Sense Campaign Impressions by Day](/uploads/6sense_campaign_dailyimpressions.png)
+
+![6sense Campaign Impressions by Hour](/uploads/6sense_campaign_hourlyimpressions.png)
+
+Two more screenshots before I wrap up the campaigns section. One shows which job titles your campaigns have targeted, based on internal 6sense data, and how the ads have been distributed in terms of frequency (how many ads were served to the same user), and on what websites.
+
+![6sense Job Title Targeting](/uploads/6sense_campaign_titles.png)
+
+![6sense Campaign Distribution](/uploads/6sense_campaign_distribution.png) 
 
 ## 6sense Pricing
+6sense is an enterprise software tool and priced accordingly.
+
+If you are seriously shopping for 6sense, [send me an email](mailto:nick@lafferty.co) and I can make a personal intro to their team and likely get you a discount. 
+
+Enterprise software starts around $30k/year but expect to pay more for a premium tool like 6sense. The predictive model is an additional price. 
 
 
+## 6sense Alternatives
+1. Terminus
+2. Triblio
+3. Demandbase
+4. Metadata.io
 
-### 6sense Alternatives
-6sense pricing
-how much does 6sense cost
-6sense alternatives
-6sense vs demandbase
-vs bombora
-vs terminus
-6sense competitors
-6sense abm
+## Wrapping Up
+We're only 2 months into our contract with 6sense but the early results are promising. I purposely avoided publishing specific conversion and revenue numbers in this article because I don't want to give anything away. But 6sense is working for our business, and I would recommend it to other companies.
