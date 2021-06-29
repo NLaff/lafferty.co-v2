@@ -2,7 +2,7 @@
 date = "2021-06-17"
 description = "Neeva is a subscription-based, ad-free search engine, but how does it compare to Google?"
 tags = ["reviews", "google"]
-title = "Neva Review | Ad-Free Google Search [2021 Review]"
+title = "Neeva Review | Ad-Free Google Search [2021 Review]"
 showtoc = true
 tocopen = true
 draft = false
