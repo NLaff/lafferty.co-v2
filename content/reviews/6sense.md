@@ -63,12 +63,14 @@ These platforms all come at a steep cost, which I'll cover in a below section. I
 
 ### How accurate is 6sense?
 ![6sense Accuracy](/uploads/6sense_accuracy.png)
+
 In my testing 6sense matched almost 60% of accounts visiting my websites, which is industry-leading. In head-to-head testing 6sense matches over 30% more accounts than Terminus. 
 
 The above screenshot is from my 6sense account with data from April and May 2021, showing a match rate of 58%.
 
 ## 6sense Review
 ![6sense homepage screenshot](/uploads/6sense_homepage.png)
+
 As I said earlier, I was on the buying committee (a fancy business word for people involved in the purchasing of expensive software) for an ABM platform. We reviewed three tools:
 1. 6sense
 2. Terminus
@@ -96,6 +98,7 @@ Let's get started by reviewing 6sense's features.
 
 ### 6Sense Features
 ![6sense Dashboard](/uploads/6sense_accountgraph.png)
+
 The 6sense platform has several main sections:
 * Segments
 * Campaigns
@@ -157,6 +160,7 @@ Building segments is the first step to using 6sense. Once they're built you can 
 
 #### Campaigns
 ![6sense Campaign Details](/uploads/6sense_campaign_details.png)
+
 There are also three types of Campaigns you can build:
 1. Display
 2. Retargeting
@@ -194,7 +198,6 @@ Two more screenshots before I wrap up the campaigns section. One shows which job
 If you are seriously shopping for 6sense, [send me an email](mailto:nick@lafferty.co) and I can make a personal intro to their team and likely get you a discount. 
 
 Enterprise software starts around $30k/year but expect to pay more for a premium tool like 6sense. The predictive model is an additional price. 
-
 
 ### 6sense Alternatives
 1. Terminus
